@@ -1,2 +1,2 @@
-# Java-Practice-Problems---Pepcoding
+# Java-Practice-Problems-Pepcoding
 All Different Java Practice Problems
