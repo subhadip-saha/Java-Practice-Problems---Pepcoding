@@ -1,4 +1,4 @@
-//Introduction to Strings
+//Introduction to String
 
 package strings_stringbuilders_arraylists;
 
